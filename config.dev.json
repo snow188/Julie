@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "08121662697",
+		"password": "kazi8989",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -17,7 +17,7 @@
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"100053549552408",
+		"100088249106822",
 		""
 	],
 	"whiteListMode": {
@@ -25,7 +25,7 @@
 		"whiteListIds": [],
 		"notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
 	},
-	"nickNameBot": "Yazkybot",
+	"nickNameBot": " [ ${prefix} ] •➤𝙶𝚎𝚛𝚊𝚕𝚍 𝚋𝚘𝚝",
 	"prefix": "&",
 	"database": {
 		"type": "sqlite",
@@ -59,7 +59,7 @@
 		"socket": {
 			"enable": true,
 			"channelName": "uptime",
-			"verifyToken": ""
+			"verifyToken": "https://uptime.botrandom30.repl.co"
 		}
 	},
 	"autoRestart": {
@@ -116,7 +116,7 @@
 	"logEvents": {
 		"disableAll": false,
 		"message": true,
-		"message_reaction": true,
+		"message_reaction": false,
 		"message_unsend": true,
 		"message_reply": true,
 		"event": true,
