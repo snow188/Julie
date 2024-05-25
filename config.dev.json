@@ -18,15 +18,17 @@
 	},
 	"adminBot": [
 		"100088249106822",
-		""
+		"08121662697"
 	],
 	"whiteListMode": {
 		"enable": false,
-		"whiteListIds": [],
+		"whiteListIds": [
+			"100088249106822"
+		],
 		"notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
 	},
-	"nickNameBot": " [ ${prefix} ] •➤𝙶𝚎𝚛𝚊𝚕𝚍 𝚋𝚘𝚝",
-	"prefix": "&",
+	"nickNameBot": " [ + ] •➤𝙶𝚎𝚛𝚊𝚕𝚍 𝚋𝚘𝚝",
+	"prefix": "+",
 	"database": {
 		"type": "sqlite",
 		"uriMongodb": "",
@@ -80,7 +82,7 @@
 	},
 	"autoRefreshFbstate": true,
 	"autoReloginWhenChangeAccount": false,
-	"autoRestartWhenListenMqttError": false,
+	"autoRestartWhenListenMqttError": true,
 	"restartListenMqtt": {
 		"disable": false,
 		"timeRestart": 0,
