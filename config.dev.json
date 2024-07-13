@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "08121662697",
-		"password": "kazi8989",
+		"email": "",
+		"password": "",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -17,18 +17,17 @@
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"100088249106822",
-		"08121662697"
+		"100080855610572"
 	],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [
-			"100088249106822"
+			"100080855610572"
 		],
 		"notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
 	},
-	"nickNameBot": " [ + ] •➤𝙶𝚎𝚛𝚊𝚕𝚍 𝚋𝚘𝚝",
-	"prefix": "+",
+	"nickNameBot": "Øđilon🐦🪶",
+	"prefix": "*",
 	"database": {
 		"type": "sqlite",
 		"uriMongodb": "",
